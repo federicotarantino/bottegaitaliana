@@ -1,0 +1,66 @@
+.bottegaheader.ui.grid > .column {
+    padding-top: 0.5rem;
+    padding-bottom: 0.3rem;
+}
+
+.bottegaheader .ui.card {
+    box-shadow: none;
+    font-size: 125%;
+}
+
+.bottegaheader .ui.card .sub.header{
+    margin-top: 5px;
+}
+
+.ui.vertical.segment.bottegadescription {
+    font-size: 170%;
+    line-height: 130%;
+    background-color: #f3f3f3;
+}
+
+.glide .glide__slide {
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 500px;
+}
+
+.glide--horizontal .glide__arrows .glide__arrow {
+    border: 0;
+}
+
+.glide--horizontal .glide__arrows .glide__arrow--right {
+    margin-left: 96%;
+}
+
+.glide .glide__slide[data-carousel='1'] {
+    background-image: url("../images/carousel_1.jpg");
+}
+
+.glide .glide__slide[data-carousel='2'] {
+    background-image: url("../images/carousel_2.jpg");
+}
+
+.glide .glide__slide[data-carousel='3'] {
+    background-image: url("../images/carousel_3.jpg");
+}
+
+.glide .glide__slide[data-carousel='4'] {
+    background-image: url("../images/carousel_4.jpg");
+}
+
+.glide .glide__slide[data-carousel='5'] {
+    background-image: url("../images/carousel_5.jpg");
+}
+
+.glide .glide__slide[data-carousel='6'] {
+    background-image: url("../images/carousel_6.jpg");
+}
+
+.glide .glide__slide[data-carousel='7'] {
+    background-image: url("../images/carousel_7.jpg");
+}
+
+.glide .glide__slide[data-carousel='8'] {
+    background-image: url("../images/carousel_8.jpg");
+}
